@@ -10,7 +10,6 @@
     "require": {
         "ext-json": "*",
         "phpseclib/phpseclib": "~3.0",
-        "google/auth": "^v1.29.1",
         "google/cloud-tasks": "^1.10",
         "thecodingmachine/safe": "^1.0|^2.0"
     },
