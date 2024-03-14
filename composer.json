@@ -10,11 +10,12 @@
     "require": {
         "ext-json": "*",
         "phpseclib/phpseclib": "~3.0",
+        "google/auth": "^v1.29.1",
         "google/cloud-tasks": "^1.10",
         "thecodingmachine/safe": "^1.0|^2.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0 || ^5.0 || ^6.0 || ^7.0",
+        "orchestra/testbench": "^4.0 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
         "nunomaduro/larastan": "^1.0 || ^2.0",
         "thecodingmachine/phpstan-safe-rule": "^1.2",
         "laravel/legacy-factories": "^1.3"
